@@ -1,0 +1,8 @@
+Name : John
+Friends : Aron James
+Name : Joseph
+Friends : James Peter
+Name : James
+Friends : Peter Mathew
+Name : Mathew
+Friends : Alex Rex
